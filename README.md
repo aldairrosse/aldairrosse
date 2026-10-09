@@ -1,6 +1,6 @@
-# aldairrosse — Full Stack Web & Mobile
+# Frankil Aldair Pérez Rosales — Full Stack Web & Mobile
 
-Construyo web y móvil para retail y e-commerce. Fuerte en backend con APIs consumibles, integraciones en productivo y releases estables a tiendas.
+Construyo web y móvil en diferentes áreas como retail y e-commerce, logística, navegación y mapas. Fuerte en backend con APIs consumibles, integraciones en productivo y releases estables a tiendas.
 
 ## Stack
 
@@ -36,5 +36,3 @@ Construyo web y móvil para retail y e-commerce. Fuerte en backend con APIs cons
 - B2B en VTEX IO — tema y módulos.
 - Legacy retail por módulos — PHP a Go.
 - App técnicos en campo — órdenes y validación en Vue + Capacitor.
-
-> No publico código de empresa. Detalle a nivel de stack y rol por privado.
