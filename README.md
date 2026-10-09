@@ -24,10 +24,12 @@ Construyo web y móvil para retail y e-commerce. Fuerte en backend con APIs cons
 
 ## Cómo trabajo
 
-1. API primero, contrato claro para frontend.
-2. CI/CD con Docker para entregas repetibles.
-3. SQL y rendimiento antes de escalar.
-4. IA para investigar e revisar, no para pegar a ciegas.
+1. Mockup y Figma primero para alinear UI antes de picar código.
+2. Flujo y PRD breve para definir alcance y criterios.
+3. API primero, contrato claro y estable para frontend.
+4. CI/CD con Docker para entregas repetibles.
+5. SQL y rendimiento antes de escalar.
+6. IA para investigar y revisar, no para pegar a ciegas.
 
 ## Trabajo privado (sin código aquí)
 
